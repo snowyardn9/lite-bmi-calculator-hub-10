@@ -1,2 +1,9 @@
-# lite-bmi-calculator-hub-10
-A simple bmi calculator project
+# Bmi Calculator
+
+A simple bmi calculator project.
+\n
+## Getting Started
+
+```bash
+python main.py
+```
